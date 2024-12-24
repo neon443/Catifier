@@ -2,8 +2,8 @@
     "manifest_version": 3,
     "default_locale": "en",
 
-    "name": "__MSG_extension_name__",
-    "description": "__MSG_extension_description__",
+    "name": "Catifier",
+    "description": "Turn every image on the internet into a cat!",
     "version": "1.0",
 
     "icons": {
@@ -21,7 +21,7 @@
 
     "content_scripts": [{
         "js": [ "content.js" ],
-        "matches": [ "*://example.com/*" ]
+        "matches": [ "<all_urls>" ]
     }],
 
     "action": {

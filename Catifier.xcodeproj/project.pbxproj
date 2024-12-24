@@ -190,6 +190,11 @@
 			path = "macOS (Extension)";
 			sourceTree = "<group>";
 		};
+		A9B4BF0F2D1ACFBD00212CE2 /* cat0 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = cat0;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -234,6 +239,7 @@
 				A9B4BECD2D1ACF7200212CE2 /* iOS (Extension) */,
 				A9B4BED72D1ACF7200212CE2 /* macOS (Extension) */,
 				A9B4BEAC2D1ACF7100212CE2 /* Products */,
+				A9B4BF0F2D1ACFBD00212CE2 /* cat0 */,
 			);
 			sourceTree = "<group>";
 		};
